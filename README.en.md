@@ -1,4 +1,4 @@
-# Dictionary of word stesses in the Ukrainian language
+# Dictionary of word stresses in the Ukrainian language
 
 [Ukrainian](./README.md)
 
