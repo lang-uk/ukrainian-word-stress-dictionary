@@ -5,8 +5,6 @@
 This [dictionary](stress.txt) lists word stress for 2,770,680 of word forms
 in the Ukrainian language.
 
-We use 
-
 We use the [`COMBINING ACUTE ACCENT`](https://unicode-table.com/en/0301/)
 (`U+0301`) sign for denoting stress. This sign comes __after__ the stressed
 vowel. For example, the following characters form the word `ма́ма`:
