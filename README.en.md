@@ -1,5 +1,9 @@
 # Dictionary of word stresses in the Ukrainian language
 
+> **Note**
+> To add accents to a text, use [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress).
+> This package is much smarter compared to just dictionary.
+
 [Ukrainian](./README.md)
 
 This [dictionary](stress.txt) lists word stresses for 2,931,496 word forms
